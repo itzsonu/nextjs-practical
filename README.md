@@ -210,13 +210,7 @@ This practical demonstrates how to:
 
 ## 👨‍💻 Author
 
-**Sonu**
+**MRITUNJAI KUMAR**
 
 GitHub: [itzsonu](https://github.com/itzsonu)
 
-```
-
-This version is more suitable for a **college practical repository** than the default `create-next-app` README currently in your repo.
-
-[View your GitHub repository](https://github.com/itzsonu/nextjs-practical?utm_source=chatgpt.com)
-```
